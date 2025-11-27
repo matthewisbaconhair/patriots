@@ -1,4 +1,4 @@
-it wants me to make this stupid thing so here it is:
+Hi,
 
-hi im matthewisbaconhair
-just dont use this
+All software under this github is either not for public use or MIT license
+Also do not break whatever rules your meant to be following
