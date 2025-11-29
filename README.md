@@ -3,9 +3,9 @@ Hi,\
 All software under this github is either not for public use or MIT license\
 Also do not break whatever rules you're meant to be following\
 \
-For the .cfg file here is the command to apply it (dont apply the registry)
+For the .cfg file here is the command to apply it
 ```
-secedit /configure /db C:\applylog.sdb /cfg "C:\Path\To\Template.inf" /areas SECURITYPOLICY,AUDITPOLICY /overwrite
+secedit /configure /cfg "C:\Path\To\Template.inf"
 ```
 \
 Checksums:\
