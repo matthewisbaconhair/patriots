@@ -10,3 +10,4 @@ secedit /configure /db C:\applylog.sdb /cfg "C:\Path\To\Template.inf" /areas SEC
 
 Checksums:
 Quick Users V2 - 92293F50C3EC992FC6196CDA9B4C89B649362710EA77104B4BE9CB9260317E57
+Reset Passwords - 3645290a97e5251823cb5d3e4d6333476c6b238a28c18020054963a4c23bf7b0
